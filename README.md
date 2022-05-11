@@ -26,8 +26,10 @@ My name Alexandra Petkova and I'm a software developer for ops Rapid Prototype D
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+![tumblr_e4a18099a1ae46ce9877c4b45b2fa7ff_a65ffb5e_540](https://user-images.githubusercontent.com/103148963/167934854-55e07d4a-15e6-46e1-9cd6-4da44b447a04.gif)
+
 ##
-### My Favorite Languages
+### My Favorite Languages!
 ###
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
