@@ -1,5 +1,17 @@
 ### Hi there, I'm Alex! 👋
 ##
+My name Alexandra Petkova and I'm a software developer for ops Rapid Prototype Design Unit! I'm orginally from Prešov, Slovakia but currently live in Etobicoke Canada. I'm working on my 3rd year in undergraduate degree in Honors Computer Science at Lakehead University in Thunderbay Canada.
+###
+### My completed courses in uni!
+##
+* Computer Programming 1 intro to C
+*  Computer Programming 2 Intro to C and C++
+*  Data Structures
+*  Introduction to Computer Architecture
+*   Introduction to Assembly Language and Operating Systems
+*   Object Oriented Programming (Java)
+
+##
 ![ak138's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak138&show_icons=true&theme=radical)
 
 ### Some of my favorite tech stuff!
