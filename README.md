@@ -6,10 +6,11 @@ My name Alexandra Petkova and I'm a software developer for ops Rapid Prototype D
 ##
 * Computer Programming 1 intro to C
 *  Computer Programming 2 Intro to C and C++
-*  Data Structures
+*  Data Structures (C)
 *  Introduction to Computer Architecture
-*   Introduction to Assembly Language and Operating Systems
-*   Object Oriented Programming (Java)
+*  Introduction to Assembly Language and Operating Systems (Assembly)
+*  Object Oriented Programming (Java)
+*  Computer Graphics (C++)
 
 ##
 ![ak138's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak138&show_icons=true&theme=radical)
