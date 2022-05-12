@@ -4,8 +4,8 @@ My name Alexandra Petkova and I'm a software developer for ops Rapid Prototype D
 ###
 ### My completed computer science courses in uni!
 ##
-* Computer Programming 1 intro to C
-*  Computer Programming 2 Intro to C and C++
+* Computer Programming 1 (C)
+*  Computer Programming 2 (C and C++)
 *  Data Structures (C)
 *  Introduction to Computer Architecture
 *  Introduction to Assembly Language and Operating Systems (Assembly)
