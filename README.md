@@ -11,6 +11,10 @@ My name Alexandra Petkova and I'm a software developer for ops Rapid Prototype D
 *  Introduction to Assembly Language and Operating Systems (Assembly)
 *  Object Oriented Programming (Java)
 *  Computer Graphics (C++)
+* Database Management Systems (sql and noSql Databases)
+* Cloud Computing
+* Topics in Artificial Intelligence
+* 
 
 ##
 ![ak138's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak138&show_icons=true&theme=radical)
