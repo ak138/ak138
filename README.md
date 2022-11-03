@@ -14,7 +14,14 @@ My name Alexandra Petkova and I'm a software developer for ops Rapid Prototype D
 * Database Management Systems (sql and noSql Databases)
 * Cloud Computing
 * Topics in Artificial Intelligence
-* 
+* Database Management system
+* Mobile Computing
+* Software Engineering
+* Operating System
+* Algorithm Design and Analysis
+* Topics in Artificial Intelligence
+* Game Programming
+* Cloud Computing
 
 ##
 ![ak138's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak138&show_icons=true&theme=radical)
