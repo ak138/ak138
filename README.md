@@ -1,5 +1,5 @@
 ### Hi there, I'm Alex! 👋
-##
+##  
 My name Alexandra Petkova and I'm a software developer! I'm working on my 3rd year of my undergraduate degree in Honors Computer Science at Lakehead University in Thunderbay Canada.
 ###
 ### My completed computer science courses in uni!:pencil:
